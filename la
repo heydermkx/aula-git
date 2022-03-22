@@ -1,0 +1,75 @@
+[33mcommit 3c9c2436af0f52cd7fde8285bb4961c9fc818454[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Mon Mar 21 22:01:46 2022 -0400
+
+    Revert "Mudando nome do curso de Ansible"
+    
+    This reverts commit bf4307dc2ae38bd4fe9421c3eb9f2f9029e7d4e7.
+
+[33mcommit bf4307dc2ae38bd4fe9421c3eb9f2f9029e7d4e7[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Mon Mar 21 21:58:18 2022 -0400
+
+    Mudando nome do curso de Ansible
+
+[33mcommit 688bf45e0cb1dd41b237bb44050b227d1bdf526d[m[33m ([m[1;31mlocal/master[m[33m)[m
+Merge: 849b3a7 1b7b7ee
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 23:48:05 2022 -0400
+
+    Merge branch 'master' of C:/Users/odont/OneDrive/Documentos/Alura git e Github/servidor
+
+[33mcommit 849b3a7640eb279e564a9b01df18d517da3a3c67[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 23:45:42 2022 -0400
+
+    dd
+
+[33mcommit 1b7b7eeac3dfa16deeec0c6aad7bb5447402ef23[m
+Merge: 0219cc7 f19c010
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 23:37:40 2022 -0400
+
+    Merge branch 'lista'
+
+[33mcommit f19c010c3a9c2d193fc303f75f7630deec14df05[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 23:29:02 2022 -0400
+
+    Atualizando o nome do curso de Docker
+
+[33mcommit 0219cc7118f8b8a5cee590d581f28fb7633d0383[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 23:19:56 2022 -0400
+
+    DEVOPS maiúsculo
+
+[33mcommit 30b240cf12acf7b7c50a8cc305d49cdf922131e2[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Fri Mar 18 22:58:47 2022 -0400
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit 8795cc1319c1e58c9b1c30950324013bc26bc96a[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Thu Mar 17 15:58:03 2022 -0400
+
+    Adicionando curso de Kubernetes
+
+[33mcommit 10a627fa420d3d9e1713e98e256645bc4288b197[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Thu Mar 17 15:49:35 2022 -0400
+
+    Alterando título da página
+
+[33mcommit 65675c2d5507603e590f5cc032be24bfb7e8d8ab[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Thu Mar 17 01:06:34 2022 -0400
+
+    Reomeando curso de Integração contínua
+
+[33mcommit b0a385d30a0b52c28189733be09769a0c723084e[m
+Author: heydermkx <heydercosta0@gmail.com>
+Date:   Thu Mar 17 00:52:18 2022 -0400
+
+    Adicionando gitignore e index
